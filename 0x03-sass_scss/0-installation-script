@@ -1,0 +1,27 @@
+To install SASS, you can follow these steps:
+
+1. **Install Node.js**: 
+    First, you need to have Node.js installed on your system. You can download it from [Node.js official website](https://nodejs.org/).
+
+2. **Install npm (Node Package Manager)**: 
+    npm comes with Node.js, so if you have installed Node.js, you already have npm.
+
+3. **Open Command Prompt or Terminal**:
+    Navigate to your project directory. In your case, it would be:
+    ```
+    cd /C:/Users/User/Desktop/ALX ProDev/alx-intermediate-frontend/0x03-sass_scss/0-installation-script
+    ```
+
+4. **Install SASS**:
+    Run the following command to install SASS globally on your system:
+    ```
+    npm install -g sass
+    ```
+
+5. **Verify Installation**:
+    To verify that SASS has been installed correctly, you can run:
+    ```
+    sass --version
+    ```
+
+This will display the version of SASS installed on your system.
